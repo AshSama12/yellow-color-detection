@@ -2,7 +2,7 @@
 
 This is a simple Python program that detects yellow-colored objects using a webcam.
 
-## Requirements
+## Libraries
 
 - Python 3.x
 - OpenCV (`opencv-python`)
