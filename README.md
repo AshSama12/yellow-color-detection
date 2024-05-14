@@ -8,3 +8,6 @@ This is a simple Python program that detects yellow-colored objects using a webc
 - OpenCV (`opencv-python`)
 - NumPy (`numpy`)
 - Pillow (`Pillow`)
+
+- product vedio
+  
