@@ -1,6 +1,6 @@
 # Yellow Color Detection using Webcam and Python
 
-This is a simple Python program that detects yellow-colored objects using a webcam.
+This is a simple Python program that detects yellow-colored objects using a web cameras.
 
 ## Libraries
 
