@@ -10,6 +10,7 @@ This project is a **real-time object detection system** that identifies yellow o
 - 🔲 **Bounding box visualization** around detected objects  
 - ⏳ **Efficient and lightweight implementation**  
 
+
 ## 🛠️ Technologies Used  
 - **Python**  
 - **OpenCV**  
